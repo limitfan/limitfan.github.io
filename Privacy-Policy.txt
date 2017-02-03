@@ -62,7 +62,7 @@ Privacy Policy
     We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
     We will make readily available to customers information about our policies and practices relating to the management of personal information.
     We will only retain personal information for as long as necessary for the fulfilment of those purposes.
-    We may collect usage data using third-party analytics platorm anonymously for a global view respecting to app's usage statitics.
+    We may collect usage data using third-party analytics platform anonymously for a global view respecting to app's usage statitics.
   
 
   We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. This app may change this privacy policy from time to time at developer's sole discretion.
